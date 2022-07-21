@@ -1,7 +1,5 @@
 const path = require("path");
 const webpack = require("webpack");
-const NodePolyfillPlugin = require("node-polyfill-webpack-plugin");
-
 module.exports = {
   mode: "production",
   entry: "./src/index.js",
@@ -15,6 +13,9 @@ module.exports = {
       stream: false,
       fs: false,
       async_hooks: false,
+      http: false,
+      crypto: false,
+      zlib: false,
     },
   },
   node: {
@@ -22,5 +23,5 @@ module.exports = {
     __filename: false,
     __dirname: false,
   },
-  plugins: [new NodePolyfillPlugin()],
+  plugins: [],
 };
