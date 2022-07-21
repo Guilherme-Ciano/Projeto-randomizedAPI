@@ -10,6 +10,11 @@ Well, I think the name already indicates, but it is an API with specific routes 
 
 Ok, I have to admit, there's not much need, but I guarantee you've also wanted to program something, but had no idea what to do to put it in the portfolio, so it's not a bad idea to take any crazy project from here and just do it. At least you will learn and will have a great time making them.
 
+## Links
+
+- https://randomized-api-m.herokuapp.com/random-projects
+- https://randomized-api-m.herokuapp.com/random-numbers
+
 ## Libs
 
 | Lib                                                                |
@@ -17,6 +22,7 @@ Ok, I have to admit, there's not much need, but I guarantee you've also wanted t
 | Node                                                               |
 | Nodemon (cause run the same command every time is a waist of time) |
 | CORS                                                               |
+| Webpack                                                            |
 
 ## Running local
 
