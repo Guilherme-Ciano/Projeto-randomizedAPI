@@ -5,6 +5,8 @@
   "main": "./src/index.js",
   "scripts": {
     "dev": "nodemon ./src/index.js",
+    "run": "node ./src/index.js",
+    "start": "node ./src/index.js",
     "build": "webpack --config webpack.config.js"
   },
   "keywords": [

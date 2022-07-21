@@ -2,8 +2,6 @@ const Express = require("express");
 const CORS = require("cors");
 const app = Express();
 
-const port = 3000;
-
 app.use(CORS());
 
 app.use("/random-numbers", require("./routes/randomNumbers"));
@@ -13,6 +11,6 @@ app.get("/", (req, res) => {
   res.send("Wrong path my boi, try /random-numbers or /random-projects");
 });
 
-app.listen(port, () => {
-  console.log(`Listening on port ${port}\nhttp://localhost:${port}`);
+app.listen(8080, () => {
+  console.log(`Listening on port 8080\nhttp://localhost:8080`);
 });
