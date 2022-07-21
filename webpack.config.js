@@ -16,6 +16,12 @@ module.exports = {
       http: false,
       crypto: false,
       zlib: false,
+      string_decoder: false,
+      querystring: false,
+      string_decoder: false,
+      url: false,
+      buffer: false,
+      util: false,
     },
   },
   node: {
