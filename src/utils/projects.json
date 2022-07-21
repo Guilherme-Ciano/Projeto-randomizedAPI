@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Parachute4You",
+    "subtitle": "Sending your packages faster and with an extra style",
+    "targetTask": "frontend",
+    "task": "We want a website that create a good mood for the user. The user will be able to send his package faster and with an extra style, so keep in mind that style is our priority, also, we want some coozy colors. have fun :)",
+    "deadline": "a week"
+  },
+
+  {
+    "title": "Pet paradise",
+    "subtitle": "A website to help you find your new pet",
+    "targetTask": "frontend",
+    "task": "Hi there! Our request is a simple website that help you to find your new pet. We want a website that create a good mood for the user. Keep in mind that a good layout is our priority, also, we want some cute images. have fun coding :)",
+    "deadline": "a week"
+  },
+
+  {
+    "title": "Your broccoli friend",
+    "subtitle": "A e-commerce website to sell broccoli",
+    "targetTask": "frontend",
+    "task": "Hi there! Our request is a simple website that help you to sell your broccoli. We want a e-commerce website with all cool things that you normally would use in any e-commerce. Keep in mind that a good layout and mobile perspective is our priority. have fun coding :)",
+    "deadline": "Two weeks"
+  },
+
+  {
+    "title": "Happy nightmare",
+    "subtitle": "A website that tell about us",
+    "targetTask": "frontend",
+    "task": "Hello comrade! We are a true russin company speciallized in scare people. Our main service is a scare delivery. We want a website that create an atmosphere of horror for the user. Dark colors, hidden elements and images will be a great ideas for a outstanding landing page. have fun coding :)",
+    "deadline": "a week"
+  }
+]
