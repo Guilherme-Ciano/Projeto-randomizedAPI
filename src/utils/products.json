@@ -1,0 +1,624 @@
+{
+  "catalogo": {
+    "roupas": {
+      "categorias": [
+        {
+          "nome": "Feminino",
+          "categorias": [
+            {
+              "nome": "Roupas",
+              "categorias": [
+                {
+                  "nome": "Vestidos",
+                  "categorias": [
+                    {
+                      "nome": "Vestido casual vermelho",
+                      "imagem": "https://i.pinimg.com/originals/5e/15/b3/5e15b35ee2c5b1bcfb393f10a5b03a25.jpg",
+                      "preco": 16.99,
+                      "moeda": "EUR",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Vestido curto preto",
+                      "imagem": "https://i.pinimg.com/736x/3f/37/8d/3f378d0c02baa174db9cfb2cdc1a37ef.jpg",
+                      "preco": 47.99,
+                      "moeda": "EUR",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Vestido comprido azul",
+                      "imagem": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11983290_fpx.tif?$2014_BROWSE_FASHION$&fmt=jpeg&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350",
+                      "preco": 103.99,
+                      "moeda": "USD",
+                      "tamanho": "L",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                },
+                {
+                  "nome": "Camisetas",
+                  "categorias": [
+                    {
+                      "nome": "Camiseta estampada",
+                      "imagem": "https://5.imimg.com/data5/NF/RO/MN/SELLER-29451348/women-printed-shirt-style-top-500x500.jpg",
+                      "preco": 24.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Cropped",
+                      "imagem": "https://m.media-amazon.com/images/I/71yF-PKsOkL._UY550_.jpg",
+                      "preco": 14.99,
+                      "moeda": "USD",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                },
+                {
+                  "nome": "Calças",
+                  "categorias": [
+                    {
+                      "nome": "Calça vermelha",
+                      "imagem": "https://i.pinimg.com/236x/00/1c/48/001c482bf5effcd6e0a1746445be9f2b--red-skinny-jeans-black-jeans.jpg",
+                      "preco": 32.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Jeans Skinny",
+                      "imagem": "https://luxuryoutletonline.eu/6694-large_default_new/gianni-kavanagh-medium-blue-hight-ripped-skinny-jeans.jpg",
+                      "preco": 44.99,
+                      "moeda": "USD",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Jeans preto",
+                      "imagem": "https://cdn.shopify.com/s/files/1/1444/3082/products/STRAIGHT-LEG-JEANS-BLACK-WASH-42314.jpg?v=1628910490",
+                      "preco": 99.99,
+                      "moeda": "USD",
+                      "tamanho": "XS",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Jeans solto",
+                      "imagem": "https://cdn.shoplightspeed.com/shops/626837/files/15085636/1500x4000x3/rvca-rvca-mens-americana-relaxed-fit-jeans.jpg",
+                      "preco": 56.99,
+                      "moeda": "USD",
+                      "tamanho": "L",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                },
+                {
+                  "nome": "Saias",
+                  "categorias": [
+                    {
+                      "nome": "Saia listrada",
+                      "imagem": "http://johnlewis.scene7.com/is/image/JohnLewis/006069840?",
+                      "preco": 24.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Saia preta",
+                      "imagem": "https://rukminim1.flixcart.com/image/714/857/kggviq80/skirt/s/m/a/s-p-f-women-s-high-cotton-waist-flared-knit-skart-short-purna-original-imafwzgbhfgjxfka.jpeg?q=50",
+                      "preco": 44.99,
+                      "moeda": "USD",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nome": "Joias",
+              "categorias": [
+                {
+                  "nome": "Colar",
+                  "imagem": "https://asset.swarovski.com/images/$size_1450/t_swa002/c_scale,dpr_3.0,f_auto,w_500/5469989_ms1/dazzling-swan-necklace--swan--pink--rose-gold-tone-plated-swarovski-5469989.jpg",
+                  "preco": 16.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Bracelete",
+                  "imagem": "https://www.gagandlou.com/75974-home_default/oh-bracelet.jpg",
+                  "preco": 47.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Anel de ouro",
+                  "imagem": "https://jebergjewellery.com/images/60620,%2061300,%2061200%20-1350-p.jpg",
+                  "preco": 399.99,
+                  "moeda": "USD"
+                }
+              ]
+            },
+            {
+              "nome": "Bolsas",
+              "categorias": [
+                {
+                  "nome": "Bolsa preta",
+                  "imagem": "https://assets.vogue.com/photos/60c140c8cced513a72d4bae7/1:1/w_1013,h_1013,c_limit/slide_20.jpg",
+                  "preco": 16.99,
+                  "moeda": "USD",
+                  "tamanho": "S",
+                  "disponibilidade": true,
+                  "frete": 5.35
+                },
+                {
+                  "nome": "Bolsa cinza",
+                  "imagem": "https://i.pinimg.com/originals/ac/22/3f/ac223fd1dd7f298c353e9cf1dd45b959.jpg",
+                  "preco": 47.99,
+                  "moeda": "USD",
+                  "tamanho": "M",
+                  "disponibilidade": true,
+                  "frete": 5.35
+                }
+              ]
+            },
+            {
+              "nome": "Sapatos",
+              "categorias": [
+                {
+                  "nome": "Salto",
+                  "imagem": "https://tamaris.com/dw/image/v2/BBHF_PRD/on/demandware.static/-/Sites-tamaris-master-catalog/default/dw6c8fefc7/product-images/dw_001-21-22405-28-001_10.jpg?sw=793&sh=1058&sm=fit",
+                  "preco": 89.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Têni esportivo",
+                  "imagem": "https://media.istockphoto.com/photos/sport-shoes-on-isolated-white-background-picture-id956501428?k=20&m=956501428&s=612x612&w=0&h=UC4qdZa2iA0PJvv0RIBlJDyF80wxFyLPq4YWvZa30Sc=",
+                  "preco": 47.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Bota",
+                  "imagem": "https://www.for-vegans.com/images/detailed/97/10127.jpg",
+                  "preco": 103.99,
+                  "moeda": "USD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Masculino",
+          "categorias": [
+            {
+              "nome": "Roupas",
+              "categorias": [
+                {
+                  "nome": "Camisetas",
+                  "categorias": [
+                    {
+                      "nome": "Camiseta preta",
+                      "imagem": "https://static05.jockey.in/uploads/dealimages/6502/zoomimages/black-sport-t-shirt-2714-16.jpg",
+                      "preco": 9.99,
+                      "moeda": "USD",
+                      "tamanho": "XL",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Camiseta Polo",
+                      "imagem": "https://redbridgejeans.de/media/image/product/65054/lg/m1304_red-bridge-men-polo-basic-polo-t-shirt-short-sleeve-cotton-m1304_25.jpg",
+                      "preco": 47.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Camiseta Branca",
+                      "imagem": "https://n.nordstrommedia.com/id/sr3/8cc04dc2-833f-4fda-aea1-ef6654e58d6a.jpeg?h=365&w=240&dpr=2",
+                      "preco": 103.99,
+                      "moeda": "USD",
+                      "tamanho": "L",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                },
+                {
+                  "nome": "Calças",
+                  "categorias": [
+                    {
+                      "nome": "Jeans azul",
+                      "imagem": "https://media.solidstore.com/images/denim-light-blue-jeans.jpg?i=ABYSo9os2Qg/569407&mw=610",
+                      "preco": 78.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Jeans justo",
+                      "imagem": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1969791_MUD?$pra_pdp$&v=1642418206",
+                      "preco": 54.99,
+                      "moeda": "USD",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                },
+                {
+                  "nome": "Shorts",
+                  "categorias": [
+                    {
+                      "nome": "Short Trouser",
+                      "imagem": "https://www.paige.com/binaries/content/gallery/products/m/m822374-6811/m822374-6811_01.jpg/m822374-6811_01.jpg",
+                      "preco": 62.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Short solto",
+                      "imagem": "https://img.panoramasistemas.com.br/modaze.img/produto/644/short-slim-caveira-644-large.jpg",
+                      "preco": 44.99,
+                      "moeda": "USD",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nome": "Acessórios",
+              "categorias": [
+                {
+                  "nome": "Gravata",
+                  "imagem": "https://www.nnt.com.au/dw/image/v2/BJCV_PRD/on/demandware.static/-/Sites-wwg-m-nnt-catalog/default/dwd878c4ee/images/hi-res/catk32_bla_1.jpg?sw=1024&sh=1024",
+                  "preco": 36.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Carteira",
+                  "imagem": "https://i00.eu/img/591/1024x1024/7lr4rcdc/7398.jpg",
+                  "preco": 47.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Óculos",
+                  "imagem": "https://cdn.eyemyeye.com/shared/images/products/S12A2001/S12A2001-1.jpg",
+                  "preco": 199.99,
+                  "moeda": "USD"
+                }
+              ]
+            },
+            {
+              "nome": "Sapatos",
+              "categorias": [
+                {
+                  "nome": "Tênis padrão",
+                  "imagem": "https://5.imimg.com/data5/SELLER/Default/2021/1/XF/TS/ED/86432004/whatsapp-image-2021-01-08-at-9-24-26-pm-2--500x500.jpeg",
+                  "preco": 89.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Tênis esportivo",
+                  "imagem": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOPUMA-SPORTS-PUMA33582369BCB81E/6.jpg?imwidth=282&impolicy=hq",
+                  "preco": 47.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Bota",
+                  "imagem": "https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F374%2F882%2F433.jpg",
+                  "preco": 103.99,
+                  "moeda": "USD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Meninas",
+          "categorias": [
+            {
+              "nome": "Roupas",
+              "categorias": [
+                {
+                  "nome": "Camisetas",
+                  "categorias": [
+                    {
+                      "nome": "Camiseta vermelha",
+                      "imagem": "https://universalclassictshirts.com/wp-content/uploads/2021/04/Kids-Red-Big-Small-Girls-1.jpeg",
+                      "preco": 16.99,
+                      "moeda": "USD",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Túnica",
+                      "imagem": "https://i.pinimg.com/736x/4d/cc/61/4dcc61c4ab7f03a85739c377c468554b.jpg",
+                      "preco": 47.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Sweater",
+                      "imagem": "https://www.forever21.com/on/demandware.static/-/Sites-f21-master-catalog/default/dw40bd14a1/1_front_750/00419547-01.jpg",
+                      "preco": 103.99,
+                      "moeda": "USD",
+                      "tamanho": "L",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                },
+                {
+                  "nome": "Calças",
+                  "categorias": [
+                    {
+                      "nome": "Jeans azul",
+                      "imagem": "https://assets.theplace.com/image/upload/w_auto,f_auto,q_auto/w_250,f_auto,q_auto/ecom/assets/content/tcp/us/plp/JEANS-GIRL/061721/bts-6.jpg",
+                      "preco": 24.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Calça vermelha",
+                      "imagem": "https://previews.123rf.com/images/lightfieldstudios/lightfieldstudios1806/lightfieldstudios180606596/102649131-beautiful-teenage-girl-in-white-sweater-and-red-pants-looking-at-camera-isolated-on-grey.jpg?fj=1",
+                      "preco": 54.99,
+                      "moeda": "USD",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                },
+                {
+                  "nome": "Shorts",
+                  "categorias": [
+                    {
+                      "nome": "Short Jeans",
+                      "imagem": "https://cf.shopee.com.br/file/d6fff4ad7f04f241b9f85c3bb9b9748e",
+                      "preco": 32.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Short esportivo",
+                      "imagem": "https://i5.walmartimages.com/asr/17632638-38f1-436a-a006-85b111b34abf_1.e955db18d586c9b37125a4127e56b1e9.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+                      "preco": 14.99,
+                      "moeda": "USD",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nome": "Acessórios",
+              "categorias": [
+                {
+                  "nome": "Colar",
+                  "imagem": "https://i.pinimg.com/736x/74/e4/32/74e432e459e1418dbe319628501abe27--wedding-bridesmaids-gifts-gold-bridesmaids.jpg",
+                  "preco": 26.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Luvas",
+                  "imagem": "https://ae05.alicdn.com/kf/HTB132kbcfjM8KJjSZFsq6xdZpXas/Genuine-Leather-Gloves-Five-Finger-Children-s-Glove-Winter-Warm-Velvet-Lined-Kids-Sheepskin-Gloves-For.jpg",
+                  "preco": 7.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Gorro",
+                  "imagem": "https://m.media-amazon.com/images/I/81VU5IVq0IL._AC_UY445_.jpg",
+                  "preco": 12.99,
+                  "moeda": "USD"
+                }
+              ]
+            },
+            {
+              "nome": "Sapatos",
+              "categorias": [
+                {
+                  "nome": "Sapato esportivo",
+                  "imagem": "https://img.joomcdn.net/45668c56b56fb647e8885d142b6d9a8d4dad66c1_original.jpeg",
+                  "preco": 39.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Bota",
+                  "imagem": "https://4.imimg.com/data4/GX/HW/ANDROID-10806906/product-500x500.jpeg",
+                  "preco": 87.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Sandálias",
+                  "imagem": "https://i.pinimg.com/originals/a9/c2/a6/a9c2a6643dc3ff722653ff97775f0cbd.jpg",
+                  "preco": 63.99,
+                  "moeda": "USD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Meninos",
+          "categorias": [
+            {
+              "nome": "Roupas",
+              "categorias": [
+                {
+                  "nome": "Camisetas",
+                  "categorias": [
+                    {
+                      "nome": "Camiseta preta estampada",
+                      "imagem": "https://s3.amazonaws.com/images.russocapri.it/Thumbs_SS22---barrow+kids---030482110_1_P.JPG",
+                      "preco": 16.99,
+                      "moeda": "USD",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Camisa azul",
+                      "imagem": "https://target.scene7.com/is/image/Target/GUEST_a0e433bd-4b58-4eb8-87db-784fc6248680?wid=488&hei=488&fmt=pjpeg",
+                      "preco": 47.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Sweater amarelo",
+                      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYz0mqqnJ8Im53_TJT6tIALlSq456RxR0-lw&usqp=CAU",
+                      "preco": 63.99,
+                      "moeda": "USD",
+                      "tamanho": "L",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                },
+                {
+                  "nome": "Calças",
+                  "categorias": [
+                    {
+                      "nome": "Jeans azul",
+                      "imagem": "https://ae01.alicdn.com/kf/Hc330b848b55640979fb54023012d7cfbN/IENENS-Boys-Jeans-Clothes-Kids-Cowboy-Long-Pants-Children-Light-Blue-Denim-Trousers-Clothes-Baby-Boy.jpg",
+                      "preco": 44.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Calça marrom",
+                      "imagem": "https://i.pinimg.com/originals/95/2d/4f/952d4f62007cafc216d166b32de5ca3c.jpg",
+                      "preco": 89.99,
+                      "moeda": "USD",
+                      "tamanho": "S",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                },
+                {
+                  "nome": "Shorts",
+                  "categorias": [
+                    {
+                      "nome": "Short esportivo",
+                      "imagem": "https://ae01.alicdn.com/kf/H74a6a4970baa4c94ba3e69c7ef0bf54fn/Beach-Shorts-For-Boys-Summer-Fashion-Design-Kids-Sport-Short-Pants-For-Teen-Boy-6-8.jpg",
+                      "preco": 32.99,
+                      "moeda": "USD",
+                      "tamanho": "M",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Short Jeans",
+                      "imagem": "https://image.made-in-china.com/44f3j00BNARnyMsSzuT/Men-s-Loose-Straight-Ripped-Jeans-Cut-Patch-Boys-Denim-Shorts.jpg",
+                      "preco": 99.99,
+                      "moeda": "USD",
+                      "tamanho": "XS",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    },
+                    {
+                      "nome": "Short preto",
+                      "imagem": "https://i5.walmartimages.com/asr/86791d48-64b6-4c4d-8042-cb2d5ea989e7_1.4447d2e1c62daf40f7e96535f93390cd.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+                      "preco": 56.99,
+                      "moeda": "USD",
+                      "tamanho": "L",
+                      "disponibilidade": true,
+                      "frete": 5.35
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nome": "Acessórios",
+              "categorias": [
+                {
+                  "nome": "Óculos",
+                  "imagem": "https://ae01.alicdn.com/kf/HTB1drvUJhTpK1RjSZFMq6zG_VXa2/Big-Square-Frame-Boys-Cool-Sunglasses-NEW-Style-Kids-Boy-Girl-glasses-Reflective-lens-UV400-Outdoor.jpg_Q90.jpg_.webp",
+                  "preco": 36.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Gorro",
+                  "imagem": "https://www.barts.eu/img/540/960/resize/4/0/4084_kinabalu-beanie-kids_17_amf2_1.jpg",
+                  "preco": 17.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Cachecol",
+                  "imagem": "https://i.pinimg.com/originals/c3/87/15/c387151a53838487f651b60c45bc8d61.jpg",
+                  "preco": 15.99,
+                  "moeda": "USD"
+                }
+              ]
+            },
+            {
+              "nome": "Sapatos",
+              "categorias": [
+                {
+                  "nome": "Tênis padrão",
+                  "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGCBUVExcVFRUYFxcZGR0dGxoaGhofGxwaHRsfGhwZHB8bIysjGiAoHRkaJDYlKCwuMjIyGiE3PDcxOysyMi4BCwsLDw4PHRERGTMoISgxMTMyMzIxMTExMTQzMTExMTExMS4xMTExMTMuMTEuMTExMS4xMTMxLjEuMTExMTExMf/AABEIAMkA+wMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAgQFBgcBAAj/xABFEAABAgQDBQYEBAUEAQEJAQABAhEAAyExEkFRBAZhcYEFEyKRofAyscHRB0JS4RQjcoLxM2KSskPCJFNjg6Kjs9LyFf/EABoBAAIDAQEAAAAAAAAAAAAAAAABAgMEBQb/xAAtEQACAgEEAQEIAwADAQAAAAAAAQIRAwQSITFBEwUiUWFxgaHRMpGxI0LwFP/aAAwDAQACEQMRAD8AzlIZqMOmtvlBwQSQH6Plrq30gas3pamsHSLAPwsGcgV4eTQhgpTYpjfqDf8AEHrWDJ5/P6Vhps6JgxYQkjFm7uwe3T1g6EzTQS0ngF/cQAHa2FjdwBze4oWz6iOlQJyetOtHN35kw2C5jVlf/Wl/MiClcwispV7hSDm8ADiSo65nkHb0pBCxHw114aefukNjOIAwyplqvgoa2LuaN6wVG1lmMuaLXSDyq8AB5aHGnN+XvnAthSShH9I104cY9M25KQXRMfTAamzPbTPSColhMpNPyh9bCzVvAIJLlOzkhh68PeRgi0i73Hs+RjpRhuQRQgFjmAaDXSvzhCBwd3LWpflkfSAYnCXtRg/E8OB+/ReKgDl2BNMzVnPSOltMmdqnm3LWFSpTsHCQ+flfk0AgSgasQ1HOVD8jSmULALEuLWHX7QpSwXbKl6VYOX5U5mEpJSbPz5UrzakACKqqv0v5ch7aEoV5B2ybgX6QXGx43yp5wBUu7fLPW/GABUsJUWt1Zsj9I5NR15s1WtCpawxd3pzL3gEyWHLEdBcj9oAEqTUhubtfhW3lC088XF8suVX6R7DwvVqcsrdYVLQE26mnX5XgARJH808UG1c/LJ+gg8smhoXuoVHVi7PkNRrCdlWnvFE2wgDIXrawh0ZSQ5Tm2QeptxLn5UhMYwmS63LMAC5Dk8Rf1vwhBQ4d2zYMAT8xUmHhDihtkb8iBm4FGgM9H5jxyycU5uIYDeegBXhWVVLUIcfqNfDR6feEEYQ1mFgeLu17PBlC7u+reujV9TAJoUGCQGLk8Te5sYAE1e5A+4d36cbCPKIBdiC4dxax+sJmpZT2oOHIfMx0rL0YcdTpWmTQAJwkdavqPveB09rgpcXrrweraWgSiBmr/NYAPOC7i1qdfZ4QWVmQL0s+YsTa3CECcQliBVi7AkGpdxlUvHELelW4fPT2YAO7KPCoU+JXz9LQ4lB+GWnGphpsqmyupQ9TDlChl6XgEFlgmgN7PQUFS+lDCkr+dzl7b0gEuXTOt7VHQavCZm0JDBRAcfCL65GpveBJt0gbokJaz+qnBnIzr5Zax3GQ9g/EjK5valL5Q1SrFagIgiEVrWK5TS6FYUzHBDXo9h0GvGE7LMNUKNQPCeDZa/5giEQnaJJLEUULfaK1N3yKxyFNR75Paz0zNrcIVioVV4VvyH1hnIn09GOWp4wTvHd9ciKpPzuMouRKxwhQoHofNteItTiLQKcAkULpBDtVq5gXo8cKxR6BgWPlUjk/SOlGKrW0ejG3OJAIRVqZ65Nc65wpy6nfqQ45+/vHaWfj/nztlHEAm1dGrl+3zgA8qhYOx+tfrCZs6uYd6s+WehpnHioaZfW0cUQ2Z4C7WfS8AHMVHNCH65tp8rwlR5iv3ybhCVhz4bClbDgPJ4QpQGf+NX93MADgMwYHh9B74wJLXJoPkc6Up51EDlrY3PJ4TNVVhf5DWNmk0c9RLjiPllOXMoL5jjYZyStdQFEJABJ1NtTUfaHaCaYiH/UQa3aotX1MRRkMKiEDaVoLBlAZEOGuz3A5Rs1Hspx5g/synHq1LiSH6ppCy4Z7dci2pb11hExRAqwJuCKDypdoDJ7QxBiADbE1A96gOLm7wZK6a0Fqi9K8L9I5WTDPG6kqNcZxl0xCjhFSAHPxdavUtfS0JmTA9C50AtXUXpxgk5TNqdTds2zY05mAKSkYQBnxo2Ti3XIRAkCSugY3cVrehDZwBKwEhjThmWyPU+UOZqAo8v6gGtyyN+EBMoOPkwfW3+OUAHsebZfOPJPE65Z1jpSxyHP3XLzjmJA//oD6GAAdr++LZUbhC0Jyqzg11w0rf2YCCB1IzHo2kPOy9kmTVhEtJWrQCw1UT8I4mlYBDbZVeEZeJRdqvjUzeYgpXUvV9b8Ism17lzJeyrmFeKYglSkJ+AIJxFiQ5IBd6WMV2XLiGRuPArPIciI3tNGGYleVH9foImZYo+TkP/SWPUH5iGnaksKSGq5IGjtiH/Vv7oWOclkTIvke7DVI4U8v2aHaUxG9iLdI5eoofpEomDU41DI66fK+jIRlaOBJFoIhQMceOs8UErAbVsj1Tf0P78YBLnUwNnXW1n0NIehZF7QifLQvgcj7uInGTiNMZypibXv4aFnazVgwnEj9XS1tCzlh7EXHdfewpw7PtmFSDRM1QBSRkFv/ANvPWLRtm6WxTXPdd0o/mlHD1w/AfKNUY7lcWPcZSnClTuH5EvTyHOPKUaj4h1PPlyr0iz7zbnTdnSZiFd7LTUkeFaUh6qT+ZnqQTnQCKhjzAfW3OsKmuyQdXhd2YUDG7craQnYtmXMVgly1zFFvCgKOdyEi3OkAmTciaG9aP9I0/wDDKakbHLbCCpS7XUQpV9Sw8hE4R3OiLdFZ2HcLblgFSZcr+tYf/wC2FfQxH7y7vp2Xwq2pC5pZ5aEqPVaiQE8A1XFM4t29m+GEmTsxClii5lMKOCX+JXGw4m1KliW+KYorUS50c3JJuY62j9mqfv5Ovh8TDqNZt92PYx2fZlK+EEDNRv0h1/DpRz9YfrnkgBAwpcB6ZnX7Vjp2EC5vd7a+3jvY1DGtsVSOTkzSk7kyFW6rCkd/hScunu8SqR+lgMnHzcQpQIZwB0r84bV9kfWa4SISZswSPhFRW+uVaWEG31HcStl2dPhmYStZF3mMcKtaYR/aYkuyNlE7aJcsp8OJ1n/YnxKB0oG6xXt5NsO1bfMmXSFEDkmg9THL16UpRxx8s36Zyctz8W/0I2bbxVMzP8wz/qHCHRmuAb50vhezm0Rxkx4IUmx6ftGPUezr96HHy8G+GorhjtcwXAq5yOYY2oGtXo0JWSAQzCg6fSPS5z1NGv8AJ/escWQf38tTX7xx5wlCW2S5NUWmrQlBy4099bx1vbn7x4pa3GrjmWb5VjmA5P76whiuxtnTNnypSlYUzFpSVBqOWDaF6C9TGxdi9ly5CAiUgIGepNnUbqPExh2MggpJCrgi4L0I0/aNu3R7RG07PLmslOKikj8q00U/M1HAjWLsdFciWTLALs4PhVyyPmW5Exk+9HY6tm2lctBZJ8UvEAQUKNAXrQum+UaT/wD6czvky/4VYlK/OtQBUCoIOBABFMQUUrUlZS5CSxENt/ux+/2YqCXmSXUMypH5hxcAHmhs4jlW5Wu0JcGUy2bGkJUErU2JJFCEvNlgkpBJBLFywBSxMd7SlkoLXoRzSXf0hyI5PHhP9KvlGXdbTGRfZ83CstZTLA4Gih0LjpE8msQRUhkqS5/M5oyVnCsADRQBr+qH+yTj8GeTlh5isbs2J5cKnHuPD+nhlO5RlT8j4xwwkFYy8i/m4HpHhNf9vqLgxzaLRYIMBny8xXhryMLEx+MLwtU3hoBsF0wrqk3e456c/wDEWvczeVWzlMqarHINELN5RySr/Z8uVIqs9YcDMu1HFBUHK0NZiikECxo2hNm4faJwk4u0Bpe/28iJaJuzv4jKAcHNdCKVfCQqnVqRlSto0cA3r5HmHiV3+2l50qWwC5cqWmaRdUzAPia5AzOpivpVazsI1ZG26J8Vwg06ZR7e7+YiS7I2taJZCVFBdQxA2QoMUp0xF3a7CIiZk13+UElnxJFxbl7H1jd7OxKWTdJWl/pTnlJRpOr/AMJUsQAzDLjxMECWLEUNjCJUtyCKDTL3aHqxiSzca8I9LbdnEnKuBxsqwHYM/DKlIKFD8zDJjdr00yziJ/isIdjQ9dMoTO7TUz0SNVN94TnFctlXoTk+CXTtCTRvO76/tAtoV4Sbe8ogVdskWc8bD7+kSW7CZu2TsCUqs613SgZEm7mwGZ5GKVrdPdbix6LJFbq4JjY1fw+xbTtVlFPdy+ZbER1wjoYpfYOzKUDhBUpagkcfZJ8otH4o7egJlbHK+CWSVNYlgb/mqp3/AFBWkQXZhVLSgpJSpICgRcE1+sYMMnn1LmvCdfXpfg2Y4vHiuS5b/CJlG7G1Cpkq6FJ/9T++cM9t7PWjwrQpB0UG8nvGkbv9rifI7w0my0kKTiIS7XIsQWoSC1YYbp7HM2qd/ETziRK+EMGK7sABUCnVuMXQ1ORKTyJJLv434SHKKbSi3bD7k7riRKMyYkGbNDMQ4Si+Eg+Z4sMoht69x2eZsg/qklV/6Caf2nixyjTAjPX0GkA2hHLzaOFmk8knKR0ILaqR8/8AdsspWCkgspKgQoGxBBqC701J0gE0FzQ+cTm+faqJ+1LXLAwUQk/rCU/EeZdq2AiLS+VIyMvGPdjU8DRj1i3/AIb9rKkbR3DgpnKA8SqImWCqCpI8LZnBUXirqWWty95W/wAR0KzBYioLs2b/AFhp07E1Zse8+xnGiYiWpa1BSKLYYlFBQ+NK0y3wEBSQkhSk+JLvE72btfeJxugqSopWJawpIqNDQsUqwmocjnXtxu2JW1bMmXMImTWInIX4ioj85SfyKpkwJbKHXZq+4mFC54/1CO6mICVKCsSu8l4WEwqIxeFKiA6SQxa26d+GVfIpW+nY/wDDbQoJH8qY65egD+JH9p9CmIDaF0bVx9/SNg3r7G/itnMsFpqPFLJ6jCeBDp6A5RknZnZs6fN7uXLUqZmlmwAFjjJomt3zYRPTaTdmt/xXLKss9seO2Ruxy0DElVQCaEsMC2ChR1KAdKsos25+6M/awFuJcsKKTMIqSklKglLuogjUDiYTvxuidhlyJ6pneFajLmsGQl0lSQnM0C6m9KCLR+CvaX+rsyjUfzE1uzS5jDSkpf8A80xf67xyl6fTH6e9Ld4CdvbhqlpC9nWpbCqVNiJzKWYH+nyeKXtGzsohYIUKaEcD9jG9kRB7x7tSdqDqGCZlMTfqPzjga6ERz5475RbRi5l4VOztmOOo99IcbEjvZkuXiCca0pxXAxKCcVLir9Iku3+wp2yL/mJdBLJmJqknTVJpY9HFYhZ0slQ7uiyaaFTjC/F2rTKKap0wJjfLsI7FNCMeNC04kqZiclJPEFuhENOxdjZC9rmD+VJBUP8AfMAYBOoSfNTDIxfN4ZCduRs5mAoCVBS8jhUjxIB/L4gmvClWMVL8Tu0ZaJUvYpTUIKkpAZKE/AmlA6mP9vGNSw7Xuf2Fd8FAm7auYpS1uVLLqJFH+cKUsaK/4msdSn28GQCagGkIsGkyYBZwRqFeVREh2Ds6Z05EvFh7xwlX6VsSlx/UAG4w2nCrgB9WgWzTVSlpWm6VBXJSS4V0IEatLn9N1fD/AAV5IbuTS9yd11TVzFbUCiXKLKTYrWA5wkVwMxcXxBs2rW0bclS1KlowIWolCHJKUvQVcktGip29U3ZEkeBU5ADOfBiT4q0YgOH1ihL2ZMuatCTRJZ3dyAHrmHcR29Hllkyvc/H2RzdTCEYWkQXaiVoTja58nzb06xFgKWoAAqUSwABJJ0SB8hF42XshW1qVKScKcIKlYXYBQNBmS1Kxdd3d3Nn2T/SQ62IK1MVl2uSPCKWSwOhjN7RhJ5NqlxX5DT6mMcdtclL3W/D2ZMZe1Ey0X7tJHeH+o1CBwqf6YvG2TJOw7O0uWAn4UITZSiDcmpOqi5pc0g/aG0Tu8TLlJRVvEtKykAVWXDBwkpYE1OKzVoG/Xb0xSFoM1K0hWFPdpKUlTMVeJ1OlJOZDkERzm4w4XZqxYp5v+SbW1c1f9FTxd7tD0UlNeBSk0/5LI/5xIhyqtze186ecB3c2XwYrFRcf0poPNT/8Yf7ZIbxj+77xfoNWsOdRl0/wzfl0EsuleZctN/dEl2DssybMEuWSCuhIdsOZU1wNOkaTtZTs8lMiQpAmYfCjGlKzWqk4gylO5Y3L6Qx3P7OTsez99NGGbMa9w5ZKGyuCRqeERPaE4zVd3tSWWCpX+mcUkuSxCQROlHV3uee3UZP/AKMtR/jH8/P5o40V6Mbf8n+F8D27E7aJc0oQoFBJxS1pKAg3ViSAe5UwJ/Sas8J/Fft3u5f8NLP82YHUXqiXXSoK2I5YuESs3aE9n7N304FcwpKRXExqpEpJV4wggPV2aMZ2uctcxa1KGNSipwmz2SmvhSHCQMgAMo5etzKc+EvqvJt0mOUY+8/t8DoTrl9vfnC8fPyhsgra6acLer58Y73szUeR+8YaNdhL5+839I6ujefEwkAjL7n7a9YWhL3owyzZ4YiV3Q7bVsk/vAHQsYZgJIBGSsQBbCqrsaE6xre8GzrXs+NBdScKj3Q8UwJ8QCFjxJYnECHo4wqdow8I18x8vWNH/C/t9ISrZ5qzjS3cuTVFu6QP1A1a5B0TScH4ZGS8ly3dVO7pPeBIIAwkF8SahjQXSEkFk/EAUpKSIlNikS0FRQlKcZxqKQAVKP5lHMxxMLl0LdRzzHvWLelRAifxG7L/AIns+ehIdaU94hrlUs4wBzAKf7oxzdLtKZInStpSCcB8QtjQAy0glsRVKLi4xS0nKPoOUqML3s3dVsm2zJaELVLX/NlNhCQlyRLxHQhSGb4SNYgM27Ye0JUySmchaVS1JxBbjC2pJs2b2iG7H3tk7VtJkSEqWhKSozTRBIIDSwarDn4qCzPGKyQmUooE0JSohSUS8SyTQoJJOAGgFIsW4nayNmmz5yJJUVy0JlqUol8RxqCj+UJZIwgZXhSairZZixzyyUIK2zT99tlTN2OalZAZOJKiWZSaprxt1igbm9p7CmWZW1ykkqXiE0pBagDYgMaGILEHM2hl2/2rNnnFNXiayRRCf6U/UueMNOwOwJ21iaZWEmWASFEgnE7BJZn8JuRFG/dK4o06vRvTbVJ23+CY/Eva5sqQj+HWO6mLwiYlWIlKgVhjZiyg/DjGZyk31Z/PM5n/ABF23v7OXK2TZZcwlLLUVCpSgqALLZ2KVEj+4s9YqklGdPfKNE5NvkxxXByTLqzaf5FeUFUl+HKnyjstFfSsFZ8m42POKyQ3KQc/36ZwGbLfL31h2pJFm9h3vS8Npic2qOGd/KADQtyd5ZQ2QKnS1KXIIS6U/FifAXJbFhoSavXMOfeXfD+KkqlJlYEkpOIqdXhUFMAwAdmvnFf3LlKn7LO2RAT3i5iVoLs7FOPETYBIcHpzLvB2JM2SZLlzVIUZgfwYqMWIJUA947mhhhkk5/y8fs5uqlNXt68lx3P7P7uSCQypjKUc2PwjgAn1MA2XeiX/ABHcLWkBzhXhISWJChVWv5rZ2NJwyXRgBKQzUu3DSMr/ABR2FMqcgy0hCQKBIYBwGIazlC/IxRmnJtyZmwQhJbW+W/t0aPtHaJBmCbKwysAOMqGFQI8Sas9MR5J4iMb7d2sbTtGGUgJQVYZaEilT8XE5vwhjO2+apGBS1FOmvOjnqYt34Wdhd7O75QdKHbT+o8yMP/LSMqlve3+38vgdBr0ouXXwSfBK9m7tTu6SUAO4R3ZICkoSlwpTlkvTw3BWHaJzdrdZZn4pwwy0MSHBC1fEByGetq1iw9m9nIllYQC8yYpaiS5KlF+g4ROypbDCOv2iqeGKe59s3YfaeaUHijW1Kk65K72v2rs8xUyTNl+NAeWJoaWolJCVYh8DualsqvDvYuzBLKO8WmZLSMUsrqtChU4Vu6kAZHhpDztjstE8DE6VCgUL4TdJ1SdDFB/FHt5CUHYJaAliDMICSlKaKQlLWKgXNiP7ni6WWKglG/mv0Yo4pSyNzqvD/ZVd++317XPLLK5MoqEqjYgbzC3xKoWP6QKAkxAYHIFq5mgc+gqYUvMe+IpnUCOkcfdvOMV2awI5WPys3vSOW/yIUoMQfb+3jyQNB5q+0ABlIpV2vb05W84Ukuda+b8BblHJebEXvpajM+ttYVNqAKOzc+J1JL35wDOYC9DSttBn79YLsW0TJUxEyWrCtCsSSfrwIcNoWgcwimGzVuOLPYFm847lXMk55NRvd+MAqNy3U7XG17OmcAlOIkYASSggsQokCudrEVN4liH+nOMX3A7bGz7QkTFK7lamXUhCZlkzCBRWGxyYg/lDbNJmJUHSQQ5DguHF6xdGVoraocbOt+vzzEVv8R9i2SdJSnaVFMxJxSlIrMSrVIzSSA4VSgqCAYn8+eeYOR96CMs7a2aZLnLTMUVLd8aqlQNldRllbKK803BcI6Ps3SQ1ORqUqrx5ZUtp7EmKIZSAxLK8T4ScQo1wSpg7MeETmy7OJaQkcTzJLk+ZgxMJJjFLJKXZ6fT6DDgk5QXL+4y7ULAcT8gT9IkN1dl2xMyXM2dC0pUsJK8Ku7IdjjyKRnpwMR3ah8I/qHq4+sSfYW+O0bPL7pKULlgkgLBcAlyHSQ2dwfpFmGk7bOB7bv119EOvxX21QRLl4AyyVTFXYo+FPEEkkHhxiiShZuvvnF5/EXbZc3ZZK0prNaZU1SEAgp5usjz4RR5RoMuZz1jXldvs48OgiU6sSPecLlijN6s/LrCZUx3v5ZXtBQKP75U90iskBOZAyzgM61xbgfesGLhwz9edunzhrObMnj7zzgGXn8OpIOzqmSlAbVK71gz4sSXQCn81aA8GPBh2xI2kTEzNpRNClEMqYDVsgbBtBEj2fOl7Ds2zbUhOKaqX3eAlk945XMWrMs+Fv6eYYds7zzttXLRNEsBKvCEAgOqlSonLi0eh0EZxrhV02+18kczU1JPn+vJpuxnEhJ1SD5gRXt/eyFT0ISmWld8SitKWFGSHzKmY5GjeIxYdmRhSlP6UgeQaCpNTGSfJlxyUGm1ZlWyfhtOK/GpISNSK8HQ59Bzi/bl7IqVs4SpGA4iWw4ThYMCOFQOA6mYME2dBUWEVOKjyuC9Zp5I7Gk22qflB9lQ3iZ/vkIfJDfXnCJaBRrCg55mAdrbYJMmZNV8MtJUqoFBUgE0drAkOWrGWUrds6EIKEVGJCb+7wp2TZypCx3pVhlJDF13OJJ/KElza4apEYdNmrWVLWoqWs4lEnxFSqlR4uTbhErvd2wds2hU5ScLslAo6ZaScIJzNSeatGiMQW1LWpa+d9Yqk7LUqPISDQ8svmdIUjjVmvmBleEgUoeWdNeNXhRIrfzbPI5REYEimZGkLxEf4/aEcikFs7E3q1TePJUuAAocPp7FYUolilze4uBXi1a+UIFdHanyjqkkniTpT0ydoBi1ioze9WI6aQpj1FhwZqFvZhKEuKjJ+VLU4v5tHVAk3e1CKC7ka9OMAHlIqQMjprnbO/WNP/C7eAzJadkWBjlJ8KnABlJYJAFypLgaMxeMwmIL50cV4l/tC9h2yZJmImSlFMxBBSWzYu4zBBY8DBGVMTVn0MQ4YxW9+uzDNkmagPNlAkhqrRcgakXHUZw+3X7YlbRJlrQp1KHiSogrSsNjCm0JvaqWuIlmNx7EWyipRphiyzxTU4OmjEDt5yR5mBL2xZsyen3iyb/dgiRN7yWP5U0uGsldyjgDcdRlFYKIwyhtdM1z9pamfc39uAc1yCSSS0Su7XaMvZ54mzJQmoCSCkhJIf8wxUJo2VzWIxQhz2Jtokzpc1UsTAguUKZjQjMEODW1xDi6ZjlJydt2y57y7TITsx2xGzAhcsd2kpT4QugVhBKQHUHKYyuSksBUsPoLxtnZfacrbZK1pllCQooUk4aFgbDJlaaxiAlrSpSQs+ElJcaHDbK0bp8pNEIeR2gZe+XCFg3ce2/eAMs5pHMfYx3FM1TyY/eKiYtYBqxvfO7CO9ly0HaJImB0GbLCnsQVBweBN+cNjOXWifP8AzFp/DDscbRtC1zUDBLSGuU43Bu1wBb/dE4RuSE3SL3tO1J7MkBQlKmhROEumhv4jceEAOAfhrGZbYRMWuYQEmZMKmFhiJLDhGk9vb2fwizKEnEspoSsAMeQL8nzEZo/iHU+xlnHo9BjdOUo9+b7+xys8kqUX14JnszeHapPhSsTE/pmDE3IviHm0Tmz78/8AvJHVK6eSh9Yq8pDiFo2UGsa56TFLlxMDzV2XXYN6pc1aUJlzcSiAAyCHP93q0XPY5OEM/iN+A9horW4e73dAT5ifGR4Em6QRfgT6DmYtqBrfOPP6yWNT24+l/p1dJiaW+S5f+CioDhl+0ZF+KG8ZnTVbLLWFSkHx0vMSapcFilBGY+JyXYRZvxM3rRIQrZUj+bMTmxAlF/GP9xIIAuGfR8g7PmAS0gqSDWhLZn7xgk/B0EgwTyJ90PvSEiWAamuXP384OUJBDKBBDvrqK/Exz4x7CGcKy98qG/CIDG6UdGPs+keKagNm7++b9IOpBt5fvS9o9qL5OfsLmvzgGNly28Qagc16RzEnRvL6QdadT8uIr6wJRTwGV9KawAKVXqffR2gshJ0AGufEZ1bWBJoC4YnM2J4e8xBZfxOWZ3oKDgYAOrDUINDUGtQToWye+cdKQXHH6Ztz847JBJ0sz1ca0zr7tCy4yzNejtbg8AAghz8659I8UJ1A5m70caXbrBUE6N1ar1Fcq+kCWl9T6OzMW5wATG5Xbx2Gd3jPKmBlpDOUpspNakOeYJ1cbZsU7HLSsFJCkhQKS6SDUMcxxj54RJTnd7AZWD9T0i6/h1vOmQsSJ6yJRfuyTSWolyGH5VOz5G3xGJwlXDISVmnbfsSJktUqakKlrFRoXcEZgvVxYh4xneLsybs09cpQLAnAon4kP4VfCztfQvG3y1OASCHFjfrEPvT2GnapPdmkxIJlLORb4SdDR/O4hZIblx2RMWVMULg+n0r6QhM5Jo4c5WPkWMO9v2ZaFKQtJStJIINwRlGp7qK7PmyES5SZOIoTjlKCe8KmriCqrq9aiM8IW6Ai9095f4ky9mElMsy5T4knw+HClgnCML4tYzvfEKG3TwpOEhYoDcYRhVUZpYtxbjG47J2XJkv3UqXKxXwpCX0Ba9/WMz/GHs3DMlbSkUUO7WeIdSD1GL/iI1u9lNhHso7nThcfSOLmN79+zCEKjywIrJgpk6NK/CnaFmQoAJwpUQCxfES6nrVgUxmSgAHpGybkdn9zs0qWQxwgqv8AGrxKrzU39vlo0/8AJ/QzamTUVT8lf3n30VPkqkdwlHiHiKsRGE5ApGE0Z31EU8bSASbmNjV2Rs6lGYZUtSjUnCC51iK362fZv4ZXeJQFhLS6ALxZBObPcWaO1g1EYVCEezA5b3cjOJW3KyHp+8Xv8Oux1TyJ8wNKQfCCPjUM63SD5kNkYg9yt3FbVMANJYLrVw/SOJ9Pnr+yyEpSlKE4UIDJSKBhS0PX6xwj6cXy+/kv2T0+njOW5x4X5DJDsSG0GkQW+O8EvZJBXiBmklMtFDiWLhQ/SM7cKkQ93h7XRsskzZnwggYfzKJoAnUvVtAdIxLt7tWZtU9c6ZUmyQPgQHYClWzPEnhHn5So6kVY12+eqdMXNmHHMmKdStbD0AAGgaEKlJ/TYaWrwEcAGLMC30pBAqlc+GWYPF/rFZYJXs6ApmSascLF30IJyMCnbDLw0SH4gaP/AHaw5mABudS5pdvtHkqchiB7oNdLwCGI2JI4BhqMs7Uzjh2VORUHeylV1DA004wdCi3X987iBzF6ZPYWfTqTTgIAGytnSPzr0+IvqwAPvhHv4MXe9alzWtXgqTaovbMjplVvOETC5Ph+cAjqgvNfoLcKPHpaZj/ENa20ytHUn5UsfnBcTnWnQcT7F4APJEynwkZUP0OnyhaO8c0T0GZ6x5Si2XJqmhBD6c+EdlqIq4OQrwpYcPWAYpapgvhpxbXyhCFqBBYV4nWrMH19I4E0Yl6v15wuWA+LI/Qs59RAAFcxYJGEGr0q/wB60hClkFlSyxGr35wdRfJha/DjenvKOzSWAD3Yc3r1pAI0f8Nt8DM/kbUvAUI/lqUQAtIvjU9VAM1nDmpjRQQRnXofW0fOKVsQUkgggjIukuCORZo2H8PN5ztaFJmKT3ssAYQGKxnNvVzRgA3Fw1kZeCLQrfvd3+IR3ssDv0DxAf8AkQNP9wy8tGy2bLGkb4oZi4t9uUUTf/doEK2qSls50sZHOYPr56xXlx37yIkbuVvcZShK2lRVKNEzFVVL4EmpRQf08rW3fXsv+J2abKo6kug6LSXSX0duYeMkWiLr+H28NtknGlpKzl/8I+mHy0ELFk/6yAysk2IYi4ORBq/GPFTecTn4hdmK2falkpZE1RUg62cc6gl8yYrmOJNU6LCa3S2Dv9ploIdKTjXoySC3VRA5PG0bKlg70FyfU8opn4Ydj4JPeKHjmseIQPhHlXrCN8+3wr/2aQf5YotSbKI/KG/KPU8L9PSaeUvdXnv5HL1M1KX0Pb171rmKMvZ1FCLFaaKVlQ3SnlUxCdj9kTJ81KQ61rNSX6lRuwEI7N2QqUAASolgGqSaNGsbr9jDZpeRmrbEf0jQcvUx1c88ekx+6vefX7ZmxKWWe1dLtj3sXs5EiUmUiyfiOalZv1+TQftPbkSZapsyiEVUdBq2eVBWsLnzQhJJdhUsHLZlrnWlYyTfreX+JmGXLWoyEqBbJas1VrhdmFnc8vOTm222+WdmEElS6IveztxW1zit1Jlgnu5f5UixLP8AEpnLWctZzFI/2qvTz/eETFsCC9GYtxswp7Azgkpy6qnixa/0t1iktEhrXDO9MtegEFc6Xt7y0jikuWNjcH3z846g8/OnrlAM6EtoHA6uGJrxeAEsTpbk2fLWCsXLOBbL5dX4vHFpehe/L3z4QCBLDOWrzv8AeBqrbnyZq/LyhaQW4t6ZhubZ5QlmbIgvU5i1NMoABhLE8Oeov5x7DxA8/tBNonmYzgeEFjq4djmfpDdM/wBuYACYX4c395QpC3a1mBZnzfjdnrQR0JpqGDivMvHks9SHNTlm+fsvAB2ShT/e1m8q58YNg9+VYQLEcaZGo9n7wssz2D3q5r1IelYAPJZi5oHGb34fSFy0vk51rW1L1EJIBA5kkZ+xCygEN9Le2F3gAHNltW9urXoBnWvrHChjR3ZjxY19PdoJNmitw3HzAyc16R4oFFF71ZraUBN3pAADBisLWL9flSDdn7XMkzEzJZKVoLpIs+ZOorUHjHEm9n0sdXHD7Qkyxd/sPLlAI2rc7eRG2SsQZM1LCZL0OqdUli3lE6f1Cpao1GnOMA7H7QmbPNTMlHCpNGukpb4VZMf8VEbHurvFK2uXiSQJiW7xD1STnxBYseecWQlZBoqu/W6vdBW07OHlXWgXl6kD9Go/LytSFl43o6ir0INjl5xmG/263cvtEgPIPxpH/iOdP0P/AMeVqsmOveQiu72bedr2ZMyYv+fIISoE/wCpLUWExI/WCwU13B5VLs5ImTZaCHBWAzirm3AEsHyBiS25YIMRXZ7OecW4ISyy2rstbUYps0/eDt0y5Z2WUoFZcTFpcBKXYS06KwsFHIuLu1e2eRbMnL6D7Qy2E1AAcmNQ3M3b7nDOnB5pqiX+j/cr/d8udvTepi0mO+3/AKziPHLLOl9x3uf2D3CRNmJeaoeFJ/IPvqcravZgWfU1JgQNyTU3P0ij/iDvf3YVs+zqeZZax/4+A/3fLmzcDPmlkk5zfP8A7g6eLFHHHbFDf8RN63K9lkF2BE1YOdu6DZ69Bc+HP03AbLgRlnlRoTJBDPd8nzevl9YOE9OlDTzjG3ZoSoQtVbm/DoeLt6wtwSUmrM9uIb0hYcHQXccLEFqZ+UCUsjix62vw5QhipYyIpm1L1Py0zjgAJcFhrn9shHMbh89W9vSFACps5q1ure/lEhCbk34096tCFm7+/vC5ppZz7p5QNaizOXao6mABEyuvlT75mArNql+Y5+cdDmrav7EIFajR/sT5+sACiKCrdc/peE94n2I8rl5Ze3MLYe/8wAFSLcfbHNv2gjaWv9SODhtYQbD2L2Or8YWV4iVEOXvZzmwFNLfSIgcUkGtxVmf1esESXJDNoGvWxbrf7QhSiEioerAtX92AjqSAMTOGcHyel2y6ZwALIc0d+o96QoJBqRm9LgkWe9suceJAAapOYbld6x42LkkXzyZz708wBSklwL2LNbLOmhf7CBCUKUPIWtb3pxp5VW8JTX4R8IFc31pCixIHyLBwaE1dm+sSAQpOZBNdL/Nv2MdVLq92oa0pfrBMBZrApHIs4JL1axj0uWxxMa3Ymtb2o7REARIz8ulvr6QLYttmbPtBmSlkLSEh/wAqhVwoC4tT1BDw8Wijsb+/pEbMH8xfIZ+/YhoRs25+9cva0N8E0DxS3fqP1J48g2UT0xbVDVFQbKHHpn9KxgGyqUhQWhSkKBcFNK5xdey9/JiU4ZssqIzSRXiQbdONA8XRl8SDiRX4mbvIlYp2zkJlksqUaGWokDw/7S9ssnDNUN2+yps+b3UoAqZ6kAM4BNeYiy72dsK2tafCUIFgWJfibAcHziM7MJlTEzUgEpNiaEG4Ojg/KCE1jnugG240zT9zN1peystRE2fr/wCOWeD3PG7WAi2d4BUkFWZ14DQcOPWKLK32lBA8Cg1kBIYeVvdIrm8e9s6ckpSe7l5t8StQSPhDZDzYtFmTM5O5OxRglwkWLfPfRsUnZlAqsqaDRP8AtTqrjlztn+Crl3d3JPmdbwLYJTS0cUj9/SHWDwkuxanEvr69IyydlqVCWq3GzWYW6mFrGl/mfOOlDnqw95ZecdKcif2IzOloQxAyL1LPpZ8s2Jjk1IfP6W666QqamtbXZiwuH6vnrHMPG5y48+cAjjNo9c/erRx9T05EftCwGc9RwawFecABI0P19mJAKWa5cD9YHNURV/LiLeojs8hzhNL1DGzmzilReELmqcFzRj5WtygA4bXo9X4M0Jeg1v0PKtQY83v3VqR5QaABFuFIS8dWLEMa/SPYDp84AHRD8dOPr7aFJsH5Vb2P3hGnMf8AVMdP5uQ+URGcTOAZrnJ62qXalvlBJc16tVhZmd3qOvrA1f6i+n/aFSfjR70gAOSKZE+uWbafSOzFkh6j5PxGcATaX/V9RDiVb+0/IQAAlYks2bv1qSR5w4Ul7MH1Iy5VA4DpHU5cj8hDSRbqf+qoBDxIGhZ3yyow0FBXjBky3prQfQe61hIueX1ELRdP9X/6wDETCdRVm+KlfsR/xiMYGatwSAfkNesWCT/pef8A+MxAn45nMf8AQQIQpIA1984NTM1Z7EudKfWArueZ+sFn/D/b94kIIgA/sB9+EeKfL18vrHZnxK/qV/2jht1+8AHTLD8jl9YHtkvwE8IdbNfz/wChhO3/AOmv3kIAG2xj+Wgf7R+x5wfFV6PTzvfrDfZf9NHP/wBJh6Lp5/8ApiJICJdKZV+mvSEhIY2DHXr9DHRfy+kcXbr9VQAcUKlnt6/OBzKM4BOh9fl6wtfwq5/eBTfiXEhA00GeevrHsGYvb9oXryEBm+/IwAKp6sa++EexUv5Ctr+ggA+M9fkIcTPj96GAAaQ9/wDMDmfu54QXPr9TCZ9jyMAAltp7EJ/u84Uu3l9ITAB//9k=",
+                  "preco": 89.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Tênis esportivo",
+                  "imagem": "https://i.pinimg.com/564x/d5/98/49/d5984944c81f1684f8f106428b76a6f6.jpg",
+                  "preco": 47.99,
+                  "moeda": "USD"
+                },
+                {
+                  "nome": "Bota",
+                  "imagem": "https://target.scene7.com/is/image/Target//GUEST_c5be504f-7a9c-40c1-a494-db6345ad8b45",
+                  "preco": 103.99,
+                  "moeda": "USD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tamanhos": [
+    { "key": "XP", "value": "Extra Pequeno" },
+    { "key": "P", "value": "Pequeno" },
+    { "key": "M", "value": "Médio" },
+    { "key": "G", "value": "Grande" },
+    { "key": "XG", "value": "Extra Grande" }
+  ]
+}

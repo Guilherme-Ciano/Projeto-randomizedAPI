@@ -14,6 +14,7 @@ Ok, I have to admit, there's not much need, but I guarantee you've also wanted t
 
 - https://randomized-api-m.herokuapp.com/random-projects
 - https://randomized-api-m.herokuapp.com/random-numbers
+- https://randomized-api-m.herokuapp.com/random-products
 
 ## Libs
 
@@ -33,3 +34,5 @@ Ok, I have to admit, there's not much need, but I guarantee you've also wanted t
     npm i
     npm run dev
 ```
+
+## All the images have their on rights. I dont onw any of this images. If you want to use them commercially, contact the real authors.

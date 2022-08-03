@@ -8,6 +8,7 @@ app.use(CORS());
 
 app.use("/random-numbers", require("./routes/randomNumbers"));
 app.use("/random-projects", require("./routes/randomProjects"));
+app.use("/random-products", require("./routes/randomProducts"));
 
 app.get("/", (req, res) => {
   res.send("Wrong path my boi, try /random-numbers or /random-projects");
